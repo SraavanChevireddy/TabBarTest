@@ -1,0 +1,9 @@
+{
+  "Simulator Target Bundle": "Gravity.TabMenuTest",
+  "aps": {
+    "alert": {
+      "title": "Transfer Update",
+      "body": "Your Transfer has been downloaded"
+    }
+  }
+}
